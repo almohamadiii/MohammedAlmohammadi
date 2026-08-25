@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 .env
-*:Zone.Identifier
+*:Zone.IdentifierDockerfile.naive
